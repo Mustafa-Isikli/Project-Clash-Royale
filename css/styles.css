@@ -1,0 +1,107 @@
+body {
+  margin: 0;
+  background-image: url("../images/body-image.jpg");
+  background-size: auto;
+  color: #fff;
+}
+
+/* Title Section */
+
+.title-image {
+  margin-top: 3%;
+  margin-left: 4%;
+}
+
+.top-bar {
+  width: 50%;
+  margin-left: 19.8%;
+  margin-top: 1.5%;
+}
+
+.top-bar-yellow-button {
+  background-color: #F5F000;
+  border-radius: 15px;
+  border: 3.25px solid #000;
+}
+
+.top-bar-yellow-button:hover {
+  background-color: #F5C601;
+  border-color: #fff;
+}
+
+/* Page Title Section */
+
+#page-title {
+  margin-top: 1%;
+  margin-left: 13%;
+  border-bottom: 0.25px solid #fff;
+}
+
+/* Main Content Section */
+
+#main-content {
+  margin-top: 13%;
+  margin-left: 13%;
+}
+
+.clash-royale-icon {
+  float: right;
+  width: 28%;
+  margin-right: 2%;
+}
+
+/* Styled Horizontal Rule - START */
+.hr-color1 {
+  border-bottom: 1px solid #FDFDFA;
+  width: 65%;
+}
+
+.hr-color2 {
+  border-bottom: 1px solid #E3E3E1;
+  width: 65%;
+}
+
+.hr-color3 {
+  border-bottom: 1px solid #000;
+  width: 65%;
+}
+
+.hr-color4 {
+  border-bottom: 1px solid #BDBDBB;
+  width: 65%;
+}
+
+.hr-color5 {
+  border-bottom: 1px solid #FDFDFA;
+  width: 65%;
+}
+/* Styled Horizontal Rule - END */
+
+.about-title {
+  margin-bottom: 2.5%;
+  text-decoration: underline;
+  text-align: center;
+  width: 65%;
+  margin-top: 2%;
+}
+
+.about-text {
+  width: 65%;
+}
+
+.styled-link {
+  color: #F5F000;
+  text-decoration: underline;
+}
+
+.styled-link:hover {
+  color: #F5C601;
+}
+
+.hr-container-2 {
+  margin-top: 2.7%;
+}
+
+.whitespace-placeholder {
+  margin-bottom: 10%;
+}

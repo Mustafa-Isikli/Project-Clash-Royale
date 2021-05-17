@@ -1,0 +1,142 @@
+body {
+  margin: 0;
+  background-image: url("../images/body-image.jpg");
+  background-size: auto;
+  color: #fff;
+}
+
+/* Title Section */
+.title-image {
+  margin-top: 3%;
+  margin-left: 4%;
+}
+
+.top-bar {
+  width: 50%;
+  margin-left: 19.8%;
+  margin-top: 1.5%;
+}
+
+.top-bar-yellow-button {
+  background-color: #F5F000;
+  border-radius: 15px;
+  border: 3.25px solid #000;
+}
+
+.top-bar-yellow-button:hover {
+  background-color: #F5C601;
+  border-color: #fff;
+}
+
+/* Page Title Section */
+#page-title {
+  margin-top: 1%;
+  margin-left: 13%;
+  border-bottom: 0.25px solid #fff;
+}
+
+/* Breadcrumbs */
+.breadcrumbs {
+  padding-top: 0.25%;
+  padding-left: 13%;
+}
+
+.breadcrumbs-1 {
+  color: #F5F000;
+}
+
+.breadcrumbs-1:hover {
+  color: #F5C601;
+}
+
+/* Main Content Section */
+#main-content {
+  margin-left: 13%;
+}
+
+.list-title {
+  margin-top: 2%;
+  margin-bottom: 2%;
+  border-bottom: 1px solid #fff;
+  padding-bottom: 0.25%;
+  width: 58%;
+}
+
+.list-item-1 {
+  margin-bottom: 1%;
+  width: 55%;
+}
+
+.list-item-2 {
+  margin-bottom: 1%;
+  width: 50%;
+}
+
+.list-item-3 {
+  margin-bottom: 1%;
+  width: 65%;
+}
+
+/* Card Types Section */
+.card-types {
+  background-color: #787775;
+  float: left;
+  margin-top: 3%;
+  width: 20%;
+  padding-bottom: 2.5%;
+  margin-right: 4%;
+}
+
+.card-types-title {
+  padding-top: 10%;
+  text-align: center;
+}
+
+.card-types-item {
+  color: #F5F000;
+  display: inline-block;
+  padding-left: 7%;
+  padding-top: 3%;
+  font-size: 1.10rem;
+}
+
+.card-types-item:hover {
+  color: #F5C601;
+}
+
+/* Cards Section */
+.cards {
+  padding-top: 2.4%;
+  margin-right: 7%;
+  margin-bottom: 15%;
+}
+
+.cards-text {
+  font-size: 1.6rem;
+}
+
+/* Types of Cards Section */
+.list-title {
+  margin-top: 2%;
+  margin-bottom: 2%;
+  border-bottom: 1px solid #fff;
+  padding-bottom: 0.25%;
+  width: 100%;
+}
+
+.list-text {
+  font-size: 1.65rem;
+  margin-bottom: 4%;
+  width: 90%;
+}
+
+.list-item-1 {
+  font-size: 1.7rem;
+  margin-bottom: 1%;
+  margin-left: 5%;
+  width: 85%;
+}
+
+.whitespace-placeholder {
+  margin-bottom: 15%;
+}

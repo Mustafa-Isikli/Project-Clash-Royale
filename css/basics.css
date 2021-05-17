@@ -1,0 +1,126 @@
+body {
+  margin: 0;
+  background-image: url("../images/body-image.jpg");
+  background-size: auto;
+  color: #fff;
+}
+
+/* Title Section */
+
+.title-image {
+  margin-top: 3%;
+  margin-left: 4%;
+}
+
+.top-bar {
+  width: 50%;
+  margin-left: 19.8%;
+  margin-top: 1.5%;
+}
+
+.top-bar-yellow-button {
+  background-color: #F5F000;
+  border-radius: 15px;
+  border: 3.25px solid #000;
+}
+
+.top-bar-yellow-button:hover {
+  background-color: #F5C601;
+  border-color: #fff;
+}
+
+/* Page Title Section */
+
+#page-title {
+  margin-top: 1%;
+  margin-left: 13%;
+  border-bottom: 0.25px solid #fff;
+}
+
+/* Breadcrumbs */
+.breadcrumbs {
+  padding-top: 0.25%;
+  padding-left: 13%;
+}
+
+.breadcrumbs-1 {
+  color: #F5F000;
+}
+
+.breadcrumbs-1:hover {
+  color: #F5C601;
+}
+
+/* Main Content Section */
+
+#main-content {
+  margin-left: 13%;
+}
+
+.basics-image {
+  float: right;
+  margin-right: 2%;
+}
+
+.list-title {
+  margin-top: 2%;
+  margin-bottom: 2%;
+  border-bottom: 1px solid #fff;
+  padding-bottom: 0.25%;
+  width: 58%;
+}
+
+.list-item-1 {
+  margin-bottom: 1%;
+  width: 55%;
+}
+
+.list-item-2 {
+  margin-bottom: 1%;
+  width: 50%;
+}
+
+.list-item-3 {
+  margin-bottom: 1%;
+  width: 65%;
+}
+
+.trophy {
+  float: right;
+  margin-right: 2%;
+  width: 37%;
+}
+
+.battle {
+  float:right;
+  margin-right: 2%;
+  width: 30%;
+}
+
+.battle-deck {
+  float: right;
+  margin-right: 2%;
+  width: 30%;
+}
+
+.combat {
+  float: right;
+  margin-right: 2%;
+  width: 30%;
+}
+
+.winning {
+  float: right;
+  margin-right: 2%;
+  width: 30%;
+}
+
+.chest {
+  float: right;
+  margin-right: 7%;
+  width: 25%;
+}
+
+.whitespace-placeholder {
+  margin-bottom: 10%;
+}
